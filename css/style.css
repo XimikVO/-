@@ -1,0 +1,68 @@
+body {
+	background: #25252f;
+	font-family: 'Open Sans';
+}
+h3 {
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: red;
+	padding-top: 20px;
+}
+p {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+img {
+	width: 75%;
+	float: left;
+	padding-right: 5px;
+}
+.head {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background: #ffffff;
+	
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.fon {
+	background: #9ae832;
+	
+	width: 1200px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+.text_t {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-bottom: 25px;
+}
+.ssilki {
+	border-left: 2px solid #9ae832;
+	border-right: 2px solid #9ae832;
+	background: #25252f;
+	margin-left: -10px;
+	margin-right: -10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+/*.plzm {
+	border: 2px solid black;
+	border-bottom: none;
+}
+.msnzag {
+	border: 2px solid black;
+	border-bottom: none;
+}
+.inoplanetyanesredinas {
+	border: 2px solid black;
+	margin: 0 auto;
+	padding-bottom: 25px;
+}*/
